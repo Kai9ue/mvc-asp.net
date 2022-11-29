@@ -78,3 +78,10 @@ body {
   justify-content: center;
   margin-top: 3rem;
 }
+
+header {
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
